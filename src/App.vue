@@ -5,12 +5,12 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
     <div class="header">
-      <nav class="navbar navbar-dark bg-dark">
+      <!-- <nav>
         <RouterLink to="/">Home</RouterLink>
 
 
         <RouterLink to="/blog">Blogs</RouterLink>
-      </nav>
+      </nav> -->
     </div>
 
   <RouterView />
